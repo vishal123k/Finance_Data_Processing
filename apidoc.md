@@ -1,5 +1,31 @@
 # API Documentation
 
+https://finance-data-processing-b3oc.onrender.com/api
+
+
+post login:-> https://finance-data-processing-b3oc.onrender.com/api/auth/login
+
+token copy 
+
+
+then set headers = Authorization: Bearer ur_token
+
+
+Records:-> GET https://finance-data-processing-b3oc.onrender.com/api/records
+
+          POST https://finance-data-processing-b3oc.onrender.com/api/records
+
+
+  add
+  {
+  "amount": 1000,
+  "type": "income",
+  "category": "salary"
+}
+
+
+Dashboard:-> GET https://finance-data-processing-b3oc.onrender.com/api/dashboard
+
 # Auth
 
 Register

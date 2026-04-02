@@ -85,7 +85,7 @@ GET `/api/dashboard/monthly`
 
 # Testing
 APIs tested using Thunder Client / Postman.
-https://finance-data-processing-b3oc.onrender.com
+https://finance-data-processing-b3oc.onrender.com/api
 
 
 1. Clone repository:- git clone https://github.com/vishal123k/Finance_Data_Processing
